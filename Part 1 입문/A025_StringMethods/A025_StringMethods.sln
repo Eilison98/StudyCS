@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A025_StringMethods", "A025_StringMethods\A025_StringMethods.csproj", "{B06F904C-D91B-4CDB-80F3-93EEF22E9ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06F904C-D91B-4CDB-80F3-93EEF22E9ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06F904C-D91B-4CDB-80F3-93EEF22E9ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06F904C-D91B-4CDB-80F3-93EEF22E9ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06F904C-D91B-4CDB-80F3-93EEF22E9ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED2DB319-BEAC-45F5-9964-E28434689533}
+	EndGlobalSection
+EndGlobal
