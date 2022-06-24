@@ -1,0 +1,74 @@
+﻿<UserControl 
+    x:Class="WFP_ERP.Views.UserView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:local="clr-namespace:WFP_ERP.Views"
+    mc:Ignorable="d" 
+    d:DesignHeight="700" d:DesignWidth="1055" Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Grid.ColumnSpan="2">
+            <Label Content="계정 정보" Width="800" Height="80" FontSize="30"  FontStyle="Normal"
+                   Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="0,0,0,10"
+                   Style="{StaticResource MahApps.Styles.Control.WindowCommands}"/>
+        </Grid>
+
+        <Button Grid.Row="2" Grid.Column="3" Content="정보 수정" FontSize="20" Margin="10"
+                x:Name="ChangingInformation"
+                Style="{StaticResource MahApps.Styles.Button.Dialogs.Accent}" Click="ChangingInformation_Click"/>
+
+        <Label Grid.Row="2" Grid.Column="1" Content="직원이름 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="3" Grid.Column="1" Content="나이 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="4" Grid.Column="1" Content="부서 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="5" Grid.Column="1" Content="직급 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="6" Grid.Column="1" Content="주소 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="7" Grid.Column="1" Content="생년월일 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+        <Label Grid.Row="8" Grid.Column="1" Content="입사년도 : " VerticalAlignment="Center" HorizontalAlignment="Right"
+               FontSize="15"/>
+
+
+        <TextBox x:Name="LoadUserName" Grid.Row="2" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="150"/>
+        <TextBox x:Name="LoadUserAge" Grid.Row="3" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="150"/>
+        <TextBox x:Name="LoadUserDepartment" Grid.Row="4" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="200"/>
+        <TextBox x:Name="LoadUserRank" Grid.Row="5" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="150"/>
+        <TextBox x:Name="LoadUserAddress" Grid.Row="6" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="300"/>
+        <TextBox x:Name="LoadUserDateOfBirth" Grid.Row="7" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="250"/>
+        <TextBox x:Name="LoadUserYearOfEntry" Grid.Row="8" Grid.Column="2" FontSize="15"
+                 VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10" Height="10" Width="250"/>
+    </Grid>
+</UserControl>
