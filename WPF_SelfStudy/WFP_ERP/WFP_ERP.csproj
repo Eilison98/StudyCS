@@ -210,9 +210,28 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ERPInformationListModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\ERPInformationUserTotalListModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ERPInformationUserTotalListModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ERPInformationUserTotalListModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ERPInformationUserTotalListModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ERPInformationUserTotalListModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ERPInformationUserTotalListModel.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Models\ErpIteml.cs" />
+    <Compile Include="Models\ErpUserTotalItem.cs" />
     <Compile Include="Models\TblERPInformationList.cs">
-      <DependentUpon>ERPInformationListModel.tt</DependentUpon>
+      <DependentUpon>ERPInformationUserTotalListModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\TblUserTotalList.cs">
+      <DependentUpon>ERPInformationUserTotalListModel.tt</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\ReleaseViewModel.cs" />
     <Compile Include="ViewModels\UserCountViewModel.cs" />
@@ -301,6 +320,13 @@
     <None Include="Models\ERPInformationListModel.edmx.diagram">
       <DependentUpon>ERPInformationListModel.edmx</DependentUpon>
     </None>
+    <EntityDeploy Include="Models\ERPInformationUserTotalListModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ERPInformationUserTotalListModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Models\ERPInformationUserTotalListModel.edmx.diagram">
+      <DependentUpon>ERPInformationUserTotalListModel.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -326,6 +352,16 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ERPInformationListModel.edmx</DependentUpon>
       <LastGenOutput>ERPInformationListModel.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\ERPInformationUserTotalListModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ERPInformationUserTotalListModel.edmx</DependentUpon>
+      <LastGenOutput>ERPInformationUserTotalListModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\ERPInformationUserTotalListModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ERPInformationUserTotalListModel.edmx</DependentUpon>
+      <LastGenOutput>ERPInformationUserTotalListModel.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
