@@ -1,0 +1,10 @@
+C:\Users\SimJongYeon\source\repos\Messanger2\bin\Debug\Messanger2.exe.config
+C:\Users\SimJongYeon\source\repos\Messanger2\bin\Debug\Messanger2.exe
+C:\Users\SimJongYeon\source\repos\Messanger2\bin\Debug\Messanger2.pdb
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.csproj.AssemblyReference.cache
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.Form1.resources
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.Properties.Resources.resources
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.csproj.GenerateResource.cache
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.csproj.CoreCompileInputs.cache
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.exe
+C:\Users\SimJongYeon\source\repos\Messanger2\obj\Debug\Messanger2.pdb

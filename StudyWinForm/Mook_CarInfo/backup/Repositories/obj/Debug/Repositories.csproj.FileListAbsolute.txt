@@ -1,0 +1,26 @@
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Repositories.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Repositories.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\ConfigurationMgr.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Libs.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Model.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\ConfigurationMgr.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Libs.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\bin\Debug\Model.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\obj\Debug\Repositories.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Repositories\obj\Debug\Repositories.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Repositories.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Repositories.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\ConfigurationMgr.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Libs.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Model.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\ConfigurationMgr.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Libs.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\bin\Debug\Model.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\obj\Debug\Repositories.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Repositories\obj\Debug\Repositories.pdb

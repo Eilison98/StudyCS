@@ -1,0 +1,12 @@
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\bin\Debug\AdoNetDB.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\bin\Debug\AdoNetDB.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\obj\Debug\AdoNetDB.csproj.AssemblyReference.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\obj\Debug\AdoNetDB.csproj.CoreCompileInputs.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\obj\Debug\AdoNetDB.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\AdoNetDB\obj\Debug\AdoNetDB.pdb
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\bin\Debug\AdoNetDB.dll
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\bin\Debug\AdoNetDB.pdb
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\obj\Debug\AdoNetDB.csproj.AssemblyReference.cache
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\obj\Debug\AdoNetDB.csproj.CoreCompileInputs.cache
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\obj\Debug\AdoNetDB.dll
+C:\Sources\WinForm\Mook_CarInfo\AdoNetDB\obj\Debug\AdoNetDB.pdb

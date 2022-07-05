@@ -1,0 +1,6 @@
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\bin\Debug\ConfigurationMgr.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\bin\Debug\ConfigurationMgr.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\obj\Debug\ConfigurationMgr.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\obj\Debug\ConfigurationMgr.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\ConfigurationMgr\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache

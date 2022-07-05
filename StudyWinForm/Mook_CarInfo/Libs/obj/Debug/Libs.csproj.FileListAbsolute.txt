@@ -1,0 +1,27 @@
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\bin\Debug\Libs.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\bin\Debug\Libs.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\bin\Debug\ConfigurationMgr.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\bin\Debug\ConfigurationMgr.pdb
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\obj\Debug\Libs.csproj.AssemblyReference.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\obj\Debug\Libs.csproj.CopyComplete
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\obj\Debug\Libs.dll
+C:\Temp\ADO.Net\mook_CarInfo - 주석 없는 버전\Libs\obj\Debug\Libs.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\bin\Debug\Libs.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\bin\Debug\Libs.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\bin\Debug\ConfigurationMgr.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\bin\Debug\ConfigurationMgr.pdb
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\obj\Debug\Libs.csproj.AssemblyReference.cache
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\obj\Debug\Libs.csproj.CopyComplete
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\obj\Debug\Libs.dll
+\\210.119.12.81\공유폴더\01_수업\04_C#\05_진행중\Libs\obj\Debug\Libs.pdb
+C:\Sources\WinForm\Mook_CarInfo\Libs\bin\Debug\Libs.dll
+C:\Sources\WinForm\Mook_CarInfo\Libs\bin\Debug\Libs.pdb
+C:\Sources\WinForm\Mook_CarInfo\Libs\bin\Debug\ConfigurationMgr.dll
+C:\Sources\WinForm\Mook_CarInfo\Libs\bin\Debug\ConfigurationMgr.pdb
+C:\Sources\WinForm\Mook_CarInfo\Libs\obj\Debug\Libs.csproj.AssemblyReference.cache
+C:\Sources\WinForm\Mook_CarInfo\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+C:\Sources\WinForm\Mook_CarInfo\Libs\obj\Debug\Libs.csproj.CopyComplete
+C:\Sources\WinForm\Mook_CarInfo\Libs\obj\Debug\Libs.dll
+C:\Sources\WinForm\Mook_CarInfo\Libs\obj\Debug\Libs.pdb
