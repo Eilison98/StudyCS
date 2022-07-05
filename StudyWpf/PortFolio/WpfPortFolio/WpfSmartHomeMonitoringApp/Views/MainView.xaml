@@ -1,0 +1,134 @@
+﻿<mah:MetroWindow
+    x:Class="WpfSmartHomeMonitoringApp.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:WpfSmartHomeMonitoringApp"
+    mc:Ignorable="d"
+    Height="720" Width="1280"
+    WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <mah:MetroWindow.IconTemplate>
+        <DataTemplate>
+            <iconPacks:PackIconUnicons Kind="Estate" Foreground="White" Margin="5,7,0,0"/>
+        </DataTemplate>
+    </mah:MetroWindow.IconTemplate>
+
+    <DockPanel>
+        <Grid DockPanel.Dock="Top">
+            <StackPanel>
+                <Menu IsMainMenu="True">
+
+                    <!-- File -->
+                    <MenuItem Header="_File">
+                        <MenuItem.Icon>
+                            <iconPacks:MaterialDesign Kind="AttachFile"/>
+                        </MenuItem.Icon>
+
+                        <!-- Start -->
+                        <MenuItem x:Name="PopInfoDialog" Header="Start">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="PlayCircleFilled"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <!-- Stop -->
+                        <MenuItem Header="Stop">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="PauseCircleFilled"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <!-- 구분자 -->
+                        <Separator/>
+
+                        <!-- Exit -->
+                        <MenuItem x:Name="ExitProgram" Header="Exit">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="ExitToApp"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+
+                    <!-- View -->
+                    <MenuItem Header="_View">
+                        <MenuItem.Icon>
+                            <iconPacks:MaterialDesign Kind="ViewAgenda"/>
+                        </MenuItem.Icon>
+
+                        <!-- DataBase -->
+                        <MenuItem x:Name="LoadDataBaseView" Header="DataBase">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="DataUsage"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <!-- RealTime -->
+                        <MenuItem x:Name="LoadRealBaseView" Header="RealTime">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="PieChart"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+
+                        <!-- History -->
+                        <MenuItem x:Name="LoadHistory" Header="History">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="ShowChart"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+
+                    <!-- Help -->
+                    <MenuItem x:Name="PopInfoView" Header="_Help">
+                        <MenuItem.Icon>
+                            <iconPacks:MaterialDesign Kind="Help"/>
+                        </MenuItem.Icon>
+
+                        <!-- About -->
+                        <MenuItem Header="About">
+                            <MenuItem.Icon>
+                                <iconPacks:MaterialDesign Kind="Info"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+
+                </Menu>
+            </StackPanel>
+        </Grid>
+
+        <Grid DockPanel.Dock="Top">
+            <StackPanel>
+                <ToolBarTray>
+                    <ToolBar Style="{StaticResource MahApps.Styles.ToolBar}">
+                        
+                        <!-- Start Icon -->
+                        <Button x:Name="StartSubscribe" ToolTip="Start MQTT Subscriber">
+                            <iconPacks:MaterialDesign Kind="PlayCircleFilled"/>
+                        </Button>
+                        
+                        <!-- Stop Icon -->
+                        <Button ToolTip="Stop MQTT Subscriber">
+                            <iconPacks:MaterialDesign Kind="PauseCircleFilled"/>
+                        </Button>
+                        
+                        <!-- 구분자 -->
+                        <Separator/>
+                        
+                        <!-- Exit Icon -->
+                        <Button x:Name="ExitToolbar" ToolTip="Exit">
+                            <iconPacks:MaterialDesign Kind="ExitToApp"/>
+                        </Button>
+                        
+                    </ToolBar>
+                </ToolBarTray>
+            </StackPanel>
+        </Grid>
+
+        <Grid Background="WhiteSmoke">
+            <ContentControl x:Name="ActiveItem"/>
+        </Grid>
+        
+    </DockPanel>
+</mah:MetroWindow>
