@@ -4,7 +4,7 @@
 <br/>
 
 ## C# 공부
-- C# 공부 ([링크](https://github.com/Eilison98/StudyCS/tree/main/C%23%20%EA%B3%B5%EB%B6%80%20Day01%20~%20Day10#studyc))
+- C# 기초잡기 ([링크](https://github.com/Eilison98/StudyCS/tree/main/C%23%20%EA%B3%B5%EB%B6%80%20Day01%20~%20Day10#studyc))
 - C# 언어공부
 - C#을 이용한 알고리즘 
 
